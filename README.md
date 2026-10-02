@@ -1,37 +1,6 @@
 # Frontier-AI-Systems-NVIDIA-AI-Infrastructure-Engineering
 
-MASTER CURRICULUM
-AI Systems Engineer → GPU Engineer → LLM Systems Engineer
-
-PHASE 01  Computer & Systems Foundation
-PHASE 02  Programming & Software Engineering
-PHASE 03  Linux & Systems Programming
-PHASE 04  GPU & CUDA Engineering
-PHASE 05  Mathematics for AI
-PHASE 06  Machine Learning
-PHASE 07  Deep Learning
-PHASE 08  Transformer Architecture
-PHASE 09  LLM Engineering
-PHASE 10  LLM Training & Alignment
-PHASE 11  AI Inference Engineering
-PHASE 12  Distributed Systems
-PHASE 13  Multi-GPU & Distributed AI
-PHASE 14  AI Networking
-PHASE 15  AI Storage & Data Infrastructure
-PHASE 16  AI Data Center Infrastructure
-PHASE 17  MLOps & AI Platform Engineering
-PHASE 18  RAG & Vector Systems
-PHASE 19  AI Agents & Tool Systems
-PHASE 20  AI Security & Reliability
-PHASE 21  LLM System Design
-PHASE 22  Production AI Architecture
-PHASE 23  Hands-on Projects
-PHASE 24  Final Frontier AI Project
-
-
-Absolutely ভাই 😄 Below is the **complete version in English**, keeping the same structure and lesson numbering.
-
-# 🧠 MASTER CURRICULUM
+ MASTER CURRICULUM
 
 ## **AI Systems Engineer → GPU Engineer → LLM Systems Engineer**
 
